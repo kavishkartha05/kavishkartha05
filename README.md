@@ -3,9 +3,9 @@
 ## 💫 About Me:
 🚀 Developing SWE passionate about AI-powered applications and exploring LLMs
 
-👨🏽‍💻 I'm currently learning LlamaIndex
+📚 I'm currently learning LlamaIndex
 
-👨‍💻 All of my projects are available on [GitHub](https://github.com/kavishkartha05)
+👨🏽‍💻 All of my projects are available on [GitHub](https://github.com/kavishkartha05)
 
 📫 Reach out: kavish01@gmail.com
 
