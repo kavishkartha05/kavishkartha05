@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Kavish Kartha
+# 👋🏼 Hi, I'm Kavish Kartha
 
 ## 💫 About Me:
 🚀 Developing SWE passionate about AI-powered applications and exploring LLMs
