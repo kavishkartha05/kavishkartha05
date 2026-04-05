@@ -1,6 +1,6 @@
 # 👋🏼 Hi, I'm Kavish Kartha
 ## 💫 About Me:
-🚀 Developing SWE passionate about AI-powered applications and exploring LLMs
+🚀 Developing SWE passionate about agentic AI and LLMs
 
 📚 I'm currently learning Apache Spark
 
