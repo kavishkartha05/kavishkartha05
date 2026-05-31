@@ -2,7 +2,7 @@
 ## 💫 About Me:
 🚀 Developing SWE passionate about agentic AI and LLMs
 
-📚 I'm currently learning Apache Spark
+📚 I'm currently learning PySpark
 
 👨🏽‍💻 All of my projects are available on [GitHub](https://github.com/kavishkartha05)
 
