@@ -2,7 +2,7 @@
 ## 💫 About Me:
 🚀 Developing SWE passionate about agentic AI and LLMs
 
-💼 Prev SWE @ PayPal
+💼 Prev SWE Intern @ PayPal
 
 🔍 I'm currently researching agent harness privacy
 
