@@ -4,7 +4,7 @@
 
 💼 Prev SWE @ PayPal
 
-🔍 I'm currently researching agentic harness privacy
+🔍 I'm currently researching agent harness privacy
 
 👨🏽‍💻 All of my projects are available on [GitHub](https://github.com/kavishkartha05)
 
