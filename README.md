@@ -1,6 +1,6 @@
 # 👋🏼 Hi, I'm Kavish Kartha
 ## 💫 About Me:
-🚀 Developing SWE passionate about agentic AI and LLMs
+🚀 Developing SWE interested in agentic AI and LLMs
 
 💼 Prev SWE Intern @ PayPal
 
